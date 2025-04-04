@@ -19,5 +19,3 @@
 </div><br><br>
 
 Gosto bastante de usar tecnologia, compreendendo a sua função social e transformando vidas
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Diegomarques940/github-readme-stats)
